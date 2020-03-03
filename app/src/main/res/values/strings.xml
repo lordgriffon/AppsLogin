@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">AppsLogin</string>
+    <string name="apps_login">Apps Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="replace_password">Replace Password</string>
+    <string name="email">Email</string>
+    <string name="create_new">Create new.</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
